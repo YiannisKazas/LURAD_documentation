@@ -97,6 +97,7 @@ nav:
   - PIFN Subsystem: PIFN.md
   - Microdosimetry Subsystem: Microdosimetry.md
   - Electron-Gamma Subsystem: ElectronGamma.md
+  - System Controller: Controller.md
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
