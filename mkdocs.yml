@@ -94,6 +94,9 @@ repo_url: https://github.com/YiannisKazas/LURAD_documentation
 # +--------------------------------------------------------------------------------------------------------+
 nav:
   - Welcome: index.md
+  - PIFN Subsystem: PIFN.md
+  - Microdosimetry Subsystem: Microdosimetry.md
+  - Electron-Gamma Subsystem: ElectronGamma.md
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
