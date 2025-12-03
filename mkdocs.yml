@@ -27,9 +27,9 @@
 # | - https://www.mkdocs.org/user-guide/configuration/#site_url                                            |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-site_name: MkDocs Template
-site_description: 'A template for future MkDocs wikis'
-site_author: 'Andre_601'
+site_name: LURAD Documentation template
+site_description: 'A template for LURAD MkDocs-based documentation site'
+site_author: 'Yiannis Kazas'
 #site_url: 'https://www.andre601.ch/mkdocs-template' # Uncomment to set a canonical URL
 
 # +--------------------------------------------------------------------------------------------------------+
@@ -45,7 +45,7 @@ site_author: 'Andre_601'
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 copyright: |
-  &copy; Author
+  &copy; Yiannis Kazas
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
@@ -75,8 +75,8 @@ docs_dir: docs/
 # | - https://www.mkdocs.org/user-guide/configuration/#edit_uri                                            |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-repo_name: Andre601/mkdocs-template
-repo_url: https://github.com/Andre601/mkdocs-template
+repo_name: YiannisKazas/LURAD_documentation
+repo_url: https://github.com/YiannisKazas/LURAD_documentation
 #edit_uri: tree/master/docs # Uncomment to define a different URI/URL for the "edit" option
 
 # +--------------------------------------------------------------------------------------------------------+

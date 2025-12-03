@@ -17,7 +17,7 @@
 [LICENSE]: https://github.com/Andre601/mkdocs-template/blob/master/LICENSE
 
 # MkDocs Material Template
-This is a template repository for anyone that wants to use the MkDocs Material Theme.
+This is a template repository for LURAD Documentation.
 
 ## Getting Started
 To get started, first clone this template by clicking on the Green button labeled [`Use this template`][use].  
